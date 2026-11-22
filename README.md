@@ -52,7 +52,7 @@ ravi_kishor:
 | Component | Specification |
 | :--- | :--- |
 | 🐧 **OS & Kernel** | Arch Linux (`x86_64`) · `Linux 7.3.5-2-cachyos` |
-| 🪟 **Compositor & Shell** | [`niri 26.04`](https://github.com/Ravi-Kishor/niri-git) (Wayland) · [`DMS v2.2-beta`](https://github.com/Ravi-Kishor/dux-shell) |
+| 🪟 **Compositor & Shell** | [`niri 26.04`](https://github.com/Ravi-Kishor/niri-git) (Wayland) · [`DMS v2.2-beta`](https://https://github.com/Ravi-Kishor/dms-shell-git) |
 | ⚡ **CPU & Graphics** | AMD Ryzen 5 5600GT · Radeon Vega (`amdgpu`, `Mesa 26.3.1`) |
 | 🖥️ **Monitor** | MSI PRO MP251 E14L (24.5" IPS, 1920 × 1080 @ 144 Hz) |
 
