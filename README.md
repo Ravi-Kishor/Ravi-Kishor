@@ -1,13 +1,12 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Ravi+Kishor+%F0%9F%91%8B;AI+%26+Machine+Learning+Engineer+in+the+Making;Arch+Linux+Tinkerer+%7C+Python+%26+Automation+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Ravi+Kishor+%F0%9F%91%8B;Aspiring+AI+%26+ML+Engineer;Arch+Linux+User+%7C+Python+Developer" alt="Typing SVG" />
 </a>
 
 <p align="center">
   <a href="https://github.com/Ravi-Kishor">
-    <img src="https://img.shields.io/badge/Focus-AI%2FML%20%26%20Data%20Science-38BDF8?style=flat-square" />
+    <img src="https://img.shields.io/badge/Focus-AI%2C%20ML%20%26%20Data%20Science-38BDF8?style=flat-square" />
   </a>
   <a href="https://archlinux.org/">
     <img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
@@ -20,27 +19,29 @@
 
 ### 👨‍💻 About Me
 
-I'm **Ravi Kishor**, an aspiring **AI/ML Engineer** and **Linux systems enthusiast** from India. I bridge the gap between data-driven machine learning workflows and bare-metal Linux automation—building reproducible ML pipelines by day and maintaining custom Arch Linux packages and CI/CD workflows by night.
+Hi, I'm **Ravi Kishor**, an aspiring **AI/ML Engineer** and **Linux enthusiast** from India. I enjoy working with data, building machine learning projects in Python, and customizing my Arch Linux setup.
 
-- 🤖 **AI & Machine Learning:** Building end-to-end supervised ML models, data ingestion pipelines, and exploratory analyses using Python.
-- 🐧 **Linux & Open Source:** Daily-driving Arch Linux (`niri` Wayland compositor), writing Bash automation scripts, and maintaining automated `PKGBUILD` build workflows via GitHub Actions.
-- 📊 **Data Engineering & Analytics:** Wrangling, auditing, and visualizing complex datasets with Pandas, NumPy, SQL, and scientific APIs.
-- ⚙️ **System Optimization:** Passionate about Linux internals, reproducible environments, and keeping systems fast, minimal, and automated.
+- 🤖 **AI & Machine Learning:** Learning and building practical ML and data science projects in Python.
+- 🐧 **Linux & Open Source:** Daily Arch Linux user (`niri` Wayland compositor). I write Bash scripts and maintain automated Arch package builds using GitHub Actions.
+- 📊 **Data Analysis:** Cleaning, analyzing, and visualizing datasets with Pandas, NumPy, Matplotlib, Seaborn, and SQL.
+- ⚙️ **System Tweaking:** Always experimenting with Linux internals, terminal tools, and keeping my system fast and clean.
 
 ---
-### 🖥️ Daily Driver & Environment
 
-| Component | Specification |
+### 🖥️ My Current System
+
+| Part | Details |
 | :--- | :--- |
 | **OS & Kernel** | Arch Linux (`x86_64`) · `Linux 7.3.5-2-cachyos` |
 | **Compositor & Shell** | [`niri 26.04`](https://github.com/Ravi-Kishor/niri-git) (Wayland) · [`DMS v2.2-beta`](https://github.com/Ravi-Kishor/dux-shell) |
 | **CPU & Graphics** | AMD Ryzen 5 5600GT · Radeon Vega (`amdgpu`, `Mesa 26.3.1`) |
-| **Display** | MSI PRO MP251 E14L (24.5" IPS, 1920 × 1080 @ 144 Hz) |
+| **Monitor** | MSI PRO MP251 E14L (24.5" IPS, 1920 × 1080 @ 144 Hz) |
+
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
-#### **AI, Machine Learning & Data Science**
+#### **AI, ML & Data Science**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -50,7 +51,7 @@ I'm **Ravi Kishor**, an aspiring **AI/ML Engineer** and **Linux systems enthusia
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### **Systems, DevOps & Web**
+#### **Linux, Tools & Web**
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -60,17 +61,16 @@ I'm **Ravi Kishor**, an aspiring **AI/ML Engineer** and **Linux systems enthusia
 
 ---
 
-### 🚀 Featured Focus & Projects
+### 🚀 What I'm Working On
 
-| Domain | What I'm Building |
+| Area | Current Work |
 | :--- | :--- |
-| **🔭 Scientific Data & ML** | Querying astronomical APIs (NASA Exoplanet Archive), building leak-free preprocessing pipelines, and training predictive ML models. |
-| **📦 Arch Linux & CI/CD** | Automated GitHub Actions build pipelines and interactive Bash updaters for Wayland ecosystem packages (`niri-git`, `quickshell-git`). |
-| **📈 Data Analysis** | Feature engineering, regularized classification models, and statistical visualization notebooks. |
+| **📦 Arch Linux Packages** | Auto-building Arch git packages (`niri-git`, `quickshell-git`) via GitHub Actions with custom Bash updaters. |
+| **📈 Data Analysis** | Practicing feature engineering, classification models, and data visualization in Python. |
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Stats
 
 <div align="center">
   <img height="175em" src="https://github-readme-stats.shion.dev/api?username=Ravi-Kishor&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" />
